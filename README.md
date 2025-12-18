@@ -58,7 +58,7 @@ This project helps in understanding:
 
 **🚀 How to Run the Project**
 
-1. Clone the repository - git clone https://github.com/your-username/snake-and-coin-game.git
+1. Clone the repository - git clone https://github.com/your-username/snake-and-food-game.git
 
 2. Navigate to the project folder
 
