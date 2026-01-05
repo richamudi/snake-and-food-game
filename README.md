@@ -8,7 +8,7 @@ This project focuses on logic building, clean code structure, and understanding 
 
 Control a snake using keyboard arrow keys
 
-Food particles appear randomly on the screen
+Food tiles appear randomly on the screen
 
 Each time the snake eats food:
 
